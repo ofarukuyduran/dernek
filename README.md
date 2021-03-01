@@ -1,2 +1,2 @@
 # dernek
-Dernek Projem 0.1
+Dernek Projesi 0.1
